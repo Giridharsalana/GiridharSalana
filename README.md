@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 
 [website]: https://giridharsalana.github.io
 [twitter]: https://twitter.com/giridharsalana3
-[linkedin]: https://linkedin.com/in/giridharsalana
+[linkedin]: https://linkedin.com/in/giridhar-salana
