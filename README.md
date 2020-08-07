@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <!-- My_Bio_Begin-->
 # Hi there, 
 
-##   you can call me [Giri][website].  I Am An Enthusiastic Coder, And I Really Like To Make Things Simple & Perfect. :raising_hand:
+##   You can call me [Giri][website].  
+##   I Am An Enthusiastic Coder, And I Really Like To Make Things Simple & Perfect. :raising_hand:
 
 ###  I'm an Electronics Engineer,Curious Code Learner and An OverThinker.. :blush:
 
