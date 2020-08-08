@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- My_Bio_Begin-->
-# Hi there, 
+# Hi There, 
 
 #    I'm Giridhar Salana
 #    You can call me [Giri][website].  
