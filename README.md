@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- My_Bio_Begin-->
 # Hi there, 
 
+#    I Am Giridhar Salana
 #    You can call me [Giri][website].  
 ##   I'm An Enthusiastic Coder, And I Really Like To Make Things Simple & Perfect. :v:
 
