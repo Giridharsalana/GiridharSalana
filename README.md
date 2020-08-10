@@ -55,15 +55,19 @@ Here are some ideas to get you started:
 ### Github Stats:
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharsalana&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharsalana&layout=compact&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
+<br>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharsalana&compact=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+
+<!--
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharsalana&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
-
-<!-- ![Giri's Github stats](https://github-readme-stats.vercel.app/api?username=giridharsalana&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Giri's Github stats](https://github-readme-stats.vercel.app/api?username=giridharsalana&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giridharsalana&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 [website]: https://giridharsalana.github.io
 [twitter]: https://twitter.com/giridharsalana3
