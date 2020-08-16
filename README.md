@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###  I'm an Electronics Engineer,Curious Code Learner and An OverThinker.. :blush:
 
-- :running: I'm Currently Learning Python
+- :running: I'm Currently Learning Python and Java Script.
 - :raised_hand: I'm Looking Contribute to Open Source Projects.
 
 
