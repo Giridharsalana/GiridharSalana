@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 ![Giri's Github stats](https://github-readme-stats.vercel.app/api?username=giridharsalana&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
  -->
 
-[website]: https://giridharsalana.github.io
+[website]: https://giridharsalana.netlify.app
 [twitter]: https://twitter.com/giridharsalana3
 [linkedin]: https://linkedin.com/in/giridhar-salana
