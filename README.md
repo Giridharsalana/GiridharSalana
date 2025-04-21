@@ -70,5 +70,5 @@ Here are some ideas to get you started:
  -->
 
 [website]: https://giridharsalana.netlify.app
-[twitter]: https://twitter.com/giridharsalana3
+[twitter]: https://x.com/IGiridharSalana
 [linkedin]: https://linkedin.com/in/giridhar-salana
